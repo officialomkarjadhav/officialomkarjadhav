@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @officialomkarjadhav
 - 👀 I’m interested in ...programming
-- 🌱 I’m currently learning ...java full stack 
+- 🌱 I’m ...java full stack 
 - 💞️ I’m looking to collaborate on ...with programming task
 - 📫 How to reach me ...officialomkarjadhav@gmail.com
 
